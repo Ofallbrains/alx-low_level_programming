@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_most_numbers - prints numbers 0 - 14 *10
+ * more_numbers - prints numbers 0 - 14 *10
  */
-void print_most_numbers(void)
+void more_numbers(void)
 {
 int i, j;
 for (i = 0; i <= 9; i++)
