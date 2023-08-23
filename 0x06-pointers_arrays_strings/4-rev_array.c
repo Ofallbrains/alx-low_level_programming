@@ -1,8 +1,9 @@
+#include <string.h>
 #include "main.h"
 /**
- * reverse_array - reverses thecontent of an array
+ * reverse_array - reverses array of integers
  * @a: an array of integers
- * @n: no of elements in an array
+ * @n: the number of elements to swap
  * Return: 0
  */
 void reverse_array(int *a, int n)
